@@ -1,2 +1,2 @@
 # hello-world
-Short description
+I am newbie
